@@ -1,0 +1,11 @@
+/* CA  External Polls CSS */
+  /* List Template One */
+	#ca-external-polls-template-one .views-field-field-ca-ext-poll-p-image-fid,
+	#ca-external-polls-template-one .pane-field-ca-ext-poll-p-image {float: left; margin-right: 10px;}
+  #ca-external-polls-template-one .views-field-teaser .field-content > p,
+	#ca-external-polls-template-one .pane-node-body .pane-content > p {margin-top: 0;}
+  #ca-external-polls-template-one .views-field-view-node {float: right; margin-right: 10px;}
+  #ca-external-polls-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #D2D2D2;}
+  #ca-external-polls-template-one .views-row-last .views-field-nothing {border: none;}
+	
+	
